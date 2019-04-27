@@ -1,0 +1,12 @@
+Package: TemperatureConverter
+Type: Package
+Title: Converts Temperature between units
+Version: 0.1.0
+Author: Zach Jones
+Maintainer: Zach Jones <zjones4@mail.usf.edu>
+Description: Takes an input from the user of a temperature in one starting unit. Then returns
+    the equivalent temperature in different units depending on the function called.
+License: CCO
+Depends: R (>= 3.1.2)
+Encoding: UTF-8
+LazyData: true
